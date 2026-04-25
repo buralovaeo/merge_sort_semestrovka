@@ -49,7 +49,7 @@ public class Benchmark {
 
         // Шаг 3: Сохранение результатов
         saveResults(results, "merge_sort_results_final.csv");
-        System.out.println("\nРезультаты сохранены в merge_sort_results.csv");
+        System.out.println("\nРезультаты сохранены в merge_sort_results_final.csv");
 
         // Шаг 4: Вывод статистики
         printStatistics(results);
